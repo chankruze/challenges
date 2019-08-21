@@ -3,47 +3,21 @@
 #include <math.h>
 #include <stdlib.h>
 
+#define NUMBER_OF_STRING 9
+#define MAX_STRING_SIZE 10
+
 int main(){
     int a, b, i;
     scanf("%d\n%d", &a, &b);
+  	
+    // Complete the code.
+    char arr[NUMBER_OF_STRING][MAX_STRING_SIZE] = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
     i = a;
+
     while (i <= b){
-        while (i >= 1 && i <= 9 && i <= b){
-            switch (i)
-            {
-            case 1:
-                printf("one\n");
-                break;
-            case 2:
-                printf("two\n");
-                break;
-            case 3:
-                printf("three\n");
-                break;
-            case 4:
-                printf("four\n");
-                break;
-            case 5:
-                printf("five\n");
-                break;
-            case 6:
-                printf("six\n");
-                break;
-            case 7:
-                printf("seven\n");
-                break;
-            case 8:
-                printf("eight\n");
-                break;
-            case 9:
-                printf("nine\n");
-                break;
-            default:
-                continue;
-                break;
-            }
-            i++;
+        for (NULL; i >= 1 && i <= 9 && i <= b; i++){
+            printf("%s\n", arr[i-1]);
         }
 
         if (i > 9){
@@ -54,8 +28,8 @@ int main(){
                 printf("odd\n");
             }
         }
+        
         i++;
     }
-
     return 0;
 }
