@@ -22,14 +22,14 @@ int main() {
     printf("Enter the number of row you want:\n");
     scanf("%d", &max_row);
     clearScr();
-    space = max_row; 
+    space = max_row - 1; 
 
-    for (i = 0; i <= max_row; i++, space--){
-        for (j = 0; j < space; j++){
+    for (i = 0; i < max_row; i++, space--){
+        for (j = 0; j <= space; j++){
             printf(" ");
         }
 
-        for (j = 0; j < i; j++){
+        for (j = 0; j <= i; j++){
             printf("* ");
         }
 
