@@ -5,6 +5,7 @@ Challenges | Problem | Solutions | Language | Difficulty
 -----------|---------|-----------|----------|----------
 Sum and Difference of Two Numbers | [Problem](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](/solutions/SumDiff.c) | C | Easy
 Functions in C | [Problem](/challenges/Functions.md) | [Solution](/solutions/FunctionsInC.c) | C | Easy
+Pointers in C | [Problem](/challenges/PointersInC.md) | [Solution](/solutions/PointersInC.c) | C | Easy
 
 ### To Do
 - Add all the solved problems' solution to above table along with their problem information
