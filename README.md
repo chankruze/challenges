@@ -6,6 +6,8 @@ Challenges | Problem | Solutions | Language | Difficulty
 Sum and Difference of Two Numbers | [Problem](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](/solutions/SumDiff.c) | C | Easy
 Functions in C | [Problem](/challenges/Functions.md) | [Solution](/solutions/FunctionsInC.c) | C | Easy
 Pointers in C | [Problem](/challenges/PointersInC.md) | [Solution](/solutions/PointersInC.c) | C | Easy
+Counting Trailing Zero | [Problem](/challenges/CountingZero.md) | [Solution - C](/solutions/counting_zero.c) <br> [Solution - Py3](/solutions/counting_zero.py) | C / Python 3 | Easy
+
 
 ### To Do
 - Add all the solved problems' solution to above table along with their problem information
