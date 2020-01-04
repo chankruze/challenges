@@ -44,3 +44,8 @@ _**N**_ = 3:
 List = [1, 2, 3, 4, 5, 6]
 X = 20. You might wanna list them yourself
 ```
+
+## Solutions
+| C | CPP | C# | Java | Python | Ruby | Swift |
+:--:|:---:|:--:|:----:|:------:|:----:|:-----:|
+[partially correct](/solutions/counting_zero.c) |  |  |  | [available](/solutions/counting_zero.py) | 

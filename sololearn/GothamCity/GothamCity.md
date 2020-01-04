@@ -20,3 +20,8 @@ A string that says `I got this!`, `Help me Batman`, or `Good Luck out there!` de
 ```
 Help me Batman
 ```
+
+## Solutions
+ C | CPP | C# | Java | Python | Ruby | Swift
+---|-----|----|------|--------|------|------
+[available](/sololearn/GothamCity/GothamCity.c) | [available](/sololearn/GothamCity/GothamCity.cpp) | [available](/sololearn/GothamCity/GothamCity.cs) | [available](/sololearn/GothamCity/GothamCity.java) | [available](/sololearn/GothamCity/GothamCity.py) | [available](/sololearn/GothamCity/GothamCity.rb) | [available](/sololearn/GothamCity/GothamCity.swift)

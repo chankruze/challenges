@@ -1,12 +1,14 @@
 # Programming Challenges
 This is the repository to save the challenges & codes of the problems we solved.
 
-Challenges | Problem | Solutions | Language | Difficulty
+Challenges | Info | Solutions | Language | Difficulty
 -----------|---------|-----------|----------|----------
-Sum and Difference of Two Numbers | [Problem](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](/solutions/SumDiff.c) | C | Easy
-Functions in C | [Problem](/challenges/Functions.md) | [Solution](/solutions/FunctionsInC.c) | C | Easy
-Pointers in C | [Problem](/challenges/PointersInC.md) | [Solution](/solutions/PointersInC.c) | C | Easy
-Counting Trailing Zero | [Problem](/challenges/CountingZero.md) | [Solution - C](/solutions/counting_zero.c) <br> [Solution - Py3](/solutions/counting_zero.py) | C / Python 3 | Easy
+Sum and Difference of Two Numbers | [Info](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](/solutions/SumDiff.c) | C | Easy
+Functions in C | [Info](/challenges/Functions.md) | [Solution](/solutions/FunctionsInC.c) | C | Easy
+Pointers in C | [Info](/challenges/PointersInC.md) | [Solution](/solutions/PointersInC.c) | C | Easy
+Counting Trailing Zero | [Info](/challenges/CountingZero.md) | | Any | Easy
+Military Time | [Info](/sololearn/MilitaryTime/MilitaryTime.md) | | Any | Medium
+Gotham City | [Info](/sololearn/GothamCity/GothamCity.md) | | Any | Medium
 
 
 ### To Do
@@ -25,4 +27,5 @@ Functions in C | [Problem](/challenges/Functions.md) | [Solution](/solutions/Fun
 
 ## Credits
 - [HackerRank](https://hackerrank.com/)
+- [Code Chef](https://www.codechef.com/)
 - [Softech](https://is.gd/pheglj)
