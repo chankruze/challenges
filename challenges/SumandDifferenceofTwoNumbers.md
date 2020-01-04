@@ -1,4 +1,4 @@
-**Objective**
+## Objective
 
 The fundamental data types in c are int, float and char. Today, we're discussing int and float data types.
 
@@ -9,7 +9,7 @@ For ex: The `scanf("%d",&number);` statement reads integer number from the conso
 
 To input two integers separated by a space on a single line, the command is scanf("%d %d", &n, &m), where n and m are the two integers.
 
-**Task**
+## Task
 
 Your task is to take two numbers of int data type, two numbers of float data type as input and output their sum:
 
@@ -19,35 +19,35 @@ Your task is to take two numbers of int data type, two numbers of float data typ
     - Print the sum and difference of two int variable on a new line.
     - Print the sum and difference of two float variable rounded to one decimal place on a new line. 
 
-**Input Format**
+## Input Format
 
 The first line contains two integers.\
 The second line contains two floating point numbers.
 
-**Constraints**
+## Constraints
 
 - 1 <= integer variables <= 10^4
 - 1 <= float variables <= 10^4
 
-**Output Format**
+## Output Format
 
 Print the sum and difference of both integers separated by a space on the first line, and the sum and difference of both float (scaled to 1 decimal place) separated by a space on the second line.
 
-**Sample Input**
+## Sample Input
 
 ```
 10 4
 4.0 2.0
 ```
 
-**Sample Output**
+## Sample Output
 
 ```
 14 6
 6.0 2.0
 ```
 
-**Explanation**
+## Explanation
 
 When we sum the integers 10 and 4, we get the integer 14. When we subtract the second number 4 from the first number 10, we get 6 as their difference.\
 When we sum the floating-point numbers 4.0 and 2.0, we get 6.0. When we subtract the second number 2.0 from the first number 4.0, we get 2.0 as their difference. 

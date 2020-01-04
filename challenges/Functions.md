@@ -1,4 +1,4 @@
-**Objective**
+## Objective
 
 In this challenge, you will learn simple usage of functions in C. Functions are a bunch of statements glued together. A function is provided with zero or more arguments, and it executes the statements on it. Based on the return type, it either returns nothing (void) or something.
 
@@ -23,7 +23,7 @@ For example, a function to read four variables and return the sum of them can be
         return sum;
     }
 
-**Task**
+## Task
 
 You have to write a function `int max_of_four(int a, int b, int c, int d)` which reads four arguments and returns the greatest of them.
 
@@ -33,16 +33,16 @@ You have to write a function `int max_of_four(int a, int b, int c, int d)` which
 
 a += b is equivalent to a = a + b;
 
-**Input Format**
+## Input Format
 
 Input will contain four integers - a,b,c,d one in each line.
 
-**Output Format**
+## Output Format
 
 Print the greatest of the four integers.
 Note: I/O will be automatically handled.
 
-**Sample Input**
+## Sample Input
 
 ```
 3
@@ -51,7 +51,7 @@ Note: I/O will be automatically handled.
 5
 ```
 
-**Sample Output**
+## Sample Output
 
 ```
 6

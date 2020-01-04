@@ -1,4 +1,4 @@
-**Objective**
+## Objective
 
 In this challenge, you will learn to implement the basic functionalities of pointers in C. A pointer in C is a way to share a memory address among different contexts (primarily functions). They are primarily used whenever a function needs to modify the content of a variable, of which it doesn't have ownership.
 
@@ -17,11 +17,11 @@ This memory address is assigned to a pointer and can be shared among various fun
     	return 0;      
     }
      
-**Task**
+## Task
 
 You have to complete the function `void update(int *a,int *b)`, which reads two integers as argument, and sets `a` with the sum of them, and `b` with the absolute difference of them.
 
-**Input Format**
+## Input Format
 
 The input will contain two integers, **a**  and **b**, separated by a newline.
 
@@ -31,20 +31,20 @@ You have to print the updated value of **a** and **b**, on two different lines.
 
 Note: Input/ouput will be automatically handled. You only have to complete the function described in the 'task' section.
 
-**Sample Input**
+## Sample Input
 
 ```
 4
 5
 ```
 
-**Sample Output**
+## Sample Output
 
 ```
 9
 1
 ```
 
-**Explanation**
+## Explanation
 - a' = 4 + 5 = 9
 - b' = |4 - 5| = 1
