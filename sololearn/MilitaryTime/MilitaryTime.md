@@ -23,6 +23,7 @@ A string that includes the time in a 24 hour format (**XX:XX**)
 ```
 
 ## Solutions
+
  C | CPP | C# | Java | Python | Ruby | Swift
 ---|---- |----|------|--------|------|------
-[available](/sololearn/GothamCity/GothamCity.c) | [available](/sololearn/GothamCity/GothamCity.cpp) | [available](/sololearn/GothamCity/GothamCity.cs) | [available](/sololearn/GothamCity/GothamCity.java) | [available](/sololearn/GothamCity/GothamCity.py) | [available](/sololearn/GothamCity/GothamCity.rb) | [available](/sololearn/GothamCity/GothamCity.swift)
+[available](/sololearn/MilitaryTime/MilitaryTime.c) |  |  |  | [available](/sololearn/MilitaryTime/MilitaryTime.py) |  | 
