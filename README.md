@@ -9,7 +9,7 @@ Pointers in C | [Info](/challenges/PointersInC.md) | [Solution](/solutions/Point
 Counting Trailing Zero | [Info](/challenges/CountingZero.md) | | Any | Easy
 Military Time | [Info](/sololearn/MilitaryTime/MilitaryTime.md) | | Any | Medium
 Gotham City | [Info](/sololearn/GothamCity/GothamCity.md) | | Any | Medium
-
+New Driver's License | [Info](/sololearn/NewDriverLicense/DL.md) | | Any | Hard
 
 ### To Do
 - Add all the solved problems' solution to above table along with their problem information
