@@ -3,9 +3,9 @@ This is the repository to save the challenges & codes of the problems we solved.
 
 Challenges | Info | Solutions | Language | Difficulty
 -----------|---------|-----------|----------|----------
-Sum and Difference of Two Numbers | [Info](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](/solutions/SumDiff.c) | C | Easy
-Functions in C | [Info](/challenges/Functions.md) | [Solution](/solutions/FunctionsInC.c) | C | Easy
-Pointers in C | [Info](/challenges/PointersInC.md) | [Solution](/solutions/PointersInC.c) | C | Easy
+Sum and Difference of Two Numbers | [Info](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/SumDiff.c) | C | Easy
+Functions in C | [Info](/challenges/Functions.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/FunctionsInC.c) | C | Easy
+Pointers in C | [Info](/challenges/PointersInC.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/PointersInC.c) | C | Easy
 Counting Trailing Zero | [Info](/challenges/CountingZero.md) | | Any | Easy
 Military Time | [Info](/sololearn/MilitaryTime/MilitaryTime.md) | | Any | Medium
 Gotham City | [Info](/sololearn/GothamCity/GothamCity.md) | | Any | Medium

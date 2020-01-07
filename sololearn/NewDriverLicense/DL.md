@@ -30,4 +30,4 @@ It will take 40 minutes to get your license because you are in the second group 
 
  C | CPP | C# | Java | Python | Ruby | Swift
 ---|-----|----|------|--------|------|------
-   |     |    |      | [available](/sololearn/NewDriverLicense/DL.py) |  | 
+   |     |    |      | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/NewDriverLicense/DL.py) |  | 
