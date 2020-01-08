@@ -15,6 +15,8 @@ Challenges | Solutions | Language | Difficulty
 [Secret Message](/sololearn/SecretMessage/SecretMessage.md) | | Any | Medium
 [Hovercraft](/sololearn/Hovercraft/Hovercraft.md) | | Any | Easy
 [Popsicles](/sololearn/Popsicles/Popsicles.md) | | Any | Easy
+[NoNumerals](/sololearn/Popsicles/NoNumerals.md) | | Any | Medium
+[Pig Latin](/sololearn/Popsicles/PigLatin.md) | | Any | Medium
 
 ### To Do
 - Add all the solved problems' solution to above table along with their problem information
