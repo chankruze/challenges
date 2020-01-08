@@ -20,7 +20,7 @@ A string of the same date but in a different format: `19/11/2019`.
 26/7/2019
 ```
 ## Note
-The input can be in two different formats, 11/19/2019 or November 19, 2019.
+The input can be in two different formats, **11/19/2019** or **November 19, 2019**.
 
 ## Solutions
 

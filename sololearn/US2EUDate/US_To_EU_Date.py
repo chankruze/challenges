@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # US date (input)
 us_date = str(input())
 
