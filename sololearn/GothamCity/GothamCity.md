@@ -23,6 +23,12 @@ Help me Batman
 
 ## Solutions
 
- C | CPP | C# | Java | Python | Ruby | Swift
----|-----|----|------|--------|------|------
-[available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.c) | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.cpp) | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.cs) | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.java) | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.py) | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.rb) | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.swift)
+Language | Solution
+---------|---------
+C | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.c)
+CPP | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.cpp)
+C# | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.cs)
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.py)
+Java | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.java)
+Ruby | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.rb)
+Swift | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/GothamCity/GothamCity.swift)

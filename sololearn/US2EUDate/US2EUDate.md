@@ -22,6 +22,12 @@ The input can be in two different formats, 11/19/2019 or November 19, 2019.
 
 ## Solutions
 
- C | CPP | C# | Java | Python | Ruby | Swift
----|-----|----|------|--------|------|------
-   |     |    |      | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/US2EUDate/US_To_EU_Date.py) |  | 
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/US2EUDate/US_To_EU_Date.py)
+Java | not available
+Ruby | not available
+Swift | not available

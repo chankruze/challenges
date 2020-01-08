@@ -22,6 +22,12 @@ Your program should output 'Deja Vu' because there are many repetitions in 'aaaa
 
 ## Solutions
 
- C | CPP | C# | Java | Python | Ruby | Swift
----|-----|----|------|--------|------|------
-   |     |    |      | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/DejaVu/DejaVu.py) |  | 
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/DejaVu/DejaVu.py)
+Java | not available
+Ruby | not available
+Swift | not available

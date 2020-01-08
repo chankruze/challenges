@@ -24,6 +24,12 @@ A string that includes the time in a 24 hour format (**XX:XX**)
 
 ## Solutions
 
- C | CPP | C# | Java | Python | Ruby | Swift
----|---- |----|------|--------|------|------
-[available](/sololearn/MilitaryTime/MilitaryTime.c) |  |  |  | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/MilitaryTime/MilitaryTime.py) |  | 
+Language | Solution
+---------|---------
+C | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/MilitaryTime/MilitaryTime.c)
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/MilitaryTime/MilitaryTime.py)
+Java | not available
+Ruby | not available
+Swift | not available
