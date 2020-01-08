@@ -13,6 +13,8 @@ New Driver's License | [Info](/sololearn/NewDriverLicense/DL.md) | | Any | Hard
 Convert US date to EU | [Info](/sololearn/US2EUDate/US2EUDate.md) | | Any | Medium
 Deja Vu | [Info](/sololearn/DejaVu/DejaVu.md) | | Any | Medium
 Secret Message | [Info](/sololearn/SecretMessage/SecretMessage.md) | | Any | Medium
+Hovercraft | [Info](/sololearn/Hovercraft/Hovercraft.md) | | Any | Easy
+Popsicles | [Info](/sololearn/Popsicles/Popsicles.md) | | Any | Easy
 
 ### To Do
 - Add all the solved problems' solution to above table along with their problem information
