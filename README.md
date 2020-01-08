@@ -1,20 +1,20 @@
 # Programming Challenges
 This is the repository to save the challenges & codes of the problems we solved.
 
-Challenges | Info | Solutions | Language | Difficulty
------------|---------|-----------|----------|----------
-Sum and Difference of Two Numbers | [Info](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/SumDiff.c) | C | Easy
-Functions in C | [Info](/challenges/Functions.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/FunctionsInC.c) | C | Easy
-Pointers in C | [Info](/challenges/PointersInC.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/PointersInC.c) | C | Easy
-Counting Trailing Zero | [Info](/challenges/CountingZero.md) | | Any | Easy
-Military Time | [Info](/sololearn/MilitaryTime/MilitaryTime.md) | | Any | Medium
-Gotham City | [Info](/sololearn/GothamCity/GothamCity.md) | | Any | Medium
-New Driver's License | [Info](/sololearn/NewDriverLicense/DL.md) | | Any | Hard
-Convert US date to EU | [Info](/sololearn/US2EUDate/US2EUDate.md) | | Any | Medium
-Deja Vu | [Info](/sololearn/DejaVu/DejaVu.md) | | Any | Medium
-Secret Message | [Info](/sololearn/SecretMessage/SecretMessage.md) | | Any | Medium
-Hovercraft | [Info](/sololearn/Hovercraft/Hovercraft.md) | | Any | Easy
-Popsicles | [Info](/sololearn/Popsicles/Popsicles.md) | | Any | Easy
+Challenges | Solutions | Language | Difficulty
+-----------|-----------|----------|----------
+[Sum and Difference of Two Numbers](/challenges/SumandDifferenceofTwoNumbers.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/SumDiff.c) | C | Easy
+[Functions in C](/challenges/Functions.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/FunctionsInC.c) | C | Easy
+[Pointers in C](/challenges/PointersInC.md) | [Solution](https://raw.githubusercontent.com/chankruze/challenges/master/solutions/PointersInC.c) | C | Easy
+[Counting Trailing Zero](/challenges/CountingZero.md) | | Any | Easy
+[Military Time](/sololearn/MilitaryTime/MilitaryTime.md) | | Any | Medium
+[Gotham City](/sololearn/GothamCity/GothamCity.md) | | Any | Medium
+[New Driver's License](/sololearn/NewDriverLicense/DL.md) | | Any | Hard
+[Convert US date to EU](/sololearn/US2EUDate/US2EUDate.md) | | Any | Medium
+[Deja Vu](/sololearn/DejaVu/DejaVu.md) | | Any | Medium
+[Secret Message](/sololearn/SecretMessage/SecretMessage.md) | | Any | Medium
+[Hovercraft](/sololearn/Hovercraft/Hovercraft.md) | | Any | Easy
+[Popsicles](/sololearn/Popsicles/Popsicles.md) | | Any | Easy
 
 ### To Do
 - Add all the solved problems' solution to above table along with their problem information
