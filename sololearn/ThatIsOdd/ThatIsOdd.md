@@ -31,3 +31,15 @@ An integer that represents the sum of only the even numbers in the list.
 
 ## Explanation:  
 If you add together 2, 4, 6, and 8 from the list, you get a sum of 20.
+
+## Solutions
+
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/ThatIsOdd/ThatIsOdd.py)
+Java | not available
+Ruby | not available
+Swift | not available

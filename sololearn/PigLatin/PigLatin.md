@@ -11,10 +11,14 @@ A string of the sentence in English that you need to translate into Pig Latin. (
 A string of the same sentence in Pig Latin.
 
 ## Sample Input  
+```
 "nevermind youve got them"
+```
 
 ## Sample Output  
+```
 "evermindnay ouveyay otgay hemtay"
+```
 
 ## Explanation
 The output should be the original sentence with each word changed so that they first letter is at the end and then **ay** is added after that.
