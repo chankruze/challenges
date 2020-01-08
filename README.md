@@ -18,6 +18,7 @@ Challenges | Solutions | Language | Difficulty
 [NoNumerals](/sololearn/NoNumerals/NoNumerals.md) | | Any | Medium
 [Pig Latin](/sololearn/PigLatin/PigLatin.md) | | Any | Medium
 [That's Odd](/sololearn/ThatIsOdd/ThatIsOdd.md) | | Any | Easy
+[Password Validation](/sololearn/PasswordValidation/PasswordValidation.md) | | Any | Hard
 
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.
