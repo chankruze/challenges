@@ -19,21 +19,21 @@ Challenges | Solutions | Language | Difficulty
 [Pig Latin](/sololearn/PigLatin/PigLatin.md) | | Any | Medium
 [That's Odd](/sololearn/ThatIsOdd/ThatIsOdd.md) | | Any | Easy
 
-### To Do
-- Add all the solved problems' solution to above table along with their problem information
-
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.
 
+You can also add solutions in different langauges to solved problems. 
+
 ```
 # Format
-<Challenge Name>| <Relative link to problem markdown> | <Relative link to solution source> | <Language> | <Difficulty>
+[Challenge Name](Relative link to problem markdown) | [solution](solution link) | <Language> | <Difficulty>
 
 # Example
-Functions in C | [Problem](/challenges/Functions.md) | [Solution](/solutions/FunctionsInC.c) | C | Easy
+[That's Odd](/sololearn/ThatIsOdd/ThatIsOdd.md) | | Any | Easy
 ```
 
 ## Credits
-- [HackerRank](https://hackerrank.com/)
-- [Code Chef](https://www.codechef.com/)
+- [HackerRank](https://hackerrank.com)
+- [Code Chef](https://www.codechef.com)
 - [Softech](https://is.gd/pheglj)
+- [Sololearn](https://sololearn.com)
