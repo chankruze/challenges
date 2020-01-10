@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 in_str = str(input())
 
 money = in_str.index('$')
