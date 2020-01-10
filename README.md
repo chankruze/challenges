@@ -29,6 +29,7 @@ S.N | Name of Challenge | Solutions | Difficulty
 24 | [Cheer Creator](/sololearn/CheerCreator/CheerCreator.md) | | Easy
 25 | [Skee-Ball](/sololearn/Skee-Ball/Skee-Ball.md) | | Easy
 26 | [Paint Costs](/sololearn/PaintCosts/PaintCosts.md) | | Easy
+27 | [Jungle Camping](/sololearn/JungleCamping/JungleCamping.md) | | Easy
 
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.

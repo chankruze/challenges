@@ -22,3 +22,15 @@ A number that represents the cost of your purchase rounded up to the nearest who
 
 ## Explanation
 You need **50.00** to buy **10 colors** of paint + **40.00** for the **canvas and brushes** + **9.00** for the **tax**.
+
+## Solutions
+
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/PaintCosts/PaintCosts.py)
+Java | not available
+Ruby | not available
+Swift | not available
