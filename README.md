@@ -20,10 +20,11 @@ S.N | Name of Challenge | Solutions | Difficulty
 15 | [That's Odd](/sololearn/ThatIsOdd/ThatIsOdd.md) | | Easy
 16 | [Password Validation](/sololearn/PasswordValidation/PasswordValidation.md) | | Hard
 17 | [Extra-Terrestrials](/sololearn/ExtraTerrestrials/ExtraTerrestrials.md) | | Easy
-18 | [Security](/sololearn/ExtraTerrestrials/Security.md) | | Hard
+18 | [Security](/sololearn/Security/Security.md) | | Hard
 19 | [The Spy Life](/sololearn/TheSpyLife/TheSpyLife.md) | | Medium
 20 | [Symbols](/sololearn/Symbols/Symbols.md) | | Medium
 21 | [YouTube Link Finder](/sololearn/YTVideoID/YTVideoID.md) | | Medium
+22 | [Average Word Length](/sololearn/AvgWordLen/AvgWordLen.md) | | Medium
 
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.
