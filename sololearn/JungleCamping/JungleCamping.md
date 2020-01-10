@@ -30,7 +30,7 @@ Language | Solution
 C | not available
 CPP | not available
 C# | not available
-Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/PaintCosts/PaintCosts.py)
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/JungleCamping/JungleCamping.py)
 Java | not available
 Ruby | not available
 Swift | not available

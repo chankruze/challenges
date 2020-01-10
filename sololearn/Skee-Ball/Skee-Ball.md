@@ -23,3 +23,15 @@ Buy it!
 
 ## Explanation
 By scoring **500 points**, you will receive **41 tickets**, which is enough to buy the squirt gun at a price of **40 tickets**.
+
+## Solutions
+
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/Skee-Ball/Skee-Ball.py)
+Java | not available
+Ruby | not available
+Swift | not available
