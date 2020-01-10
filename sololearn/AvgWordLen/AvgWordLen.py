@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import math
 
 in_str = str(input()).split()
