@@ -34,6 +34,7 @@ S.N | Name of Challenge | Solutions | Difficulty
 29 | [ItsASign](/sololearn/ItsASign/ItsASign.md) | | Hard
 30 | [Digits Of Pi](/sololearn/DigitsOfPi/DigitsOfPi.md) | | Hard
 31 | [Mathematics](/sololearn/Mathematics/Mathematics.md) | | Hard
+32 | [Longest Common Substring](/sololearn/LCS/LCS.md) | | Hard
 
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.
