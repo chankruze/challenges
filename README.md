@@ -39,6 +39,7 @@ S.N | Name of Challenge | Solutions | Difficulty
 34 | [Word Rank](/sololearn/WordRank/WordRank.md) | | Hard
 35 | [Hofstadter's Q-Sequence](/sololearn/HofstadtersQSequence/HQS.md) | | Hard
 36 | [Ballpark Orders](/sololearn/BallparkOrders/BallparkOrders.md) | | Easy
+37 | [Safety Deposit Boxes](/sololearn/SafetyDepositBoxes/SDBs.md) | | Medium
 
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.
