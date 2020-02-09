@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 def convert_time(time_string):
 
     time_suffix = time_string[-2:].upper()

@@ -45,18 +45,18 @@ S.N | Name of Challenge | Solutions | Difficulty
 39 | [Duct Tape](/sololearn/DuctTape/DuctTape.md) | | Easy
 40 | [Easter Eggs](/sololearn/EasterEggs/EasterEggs.md) | | Easy
 41 | [Guard Flamingos](/sololearn/GuardFlamingos/GF.md) | | Easy
-42 | [Izzy the Iguana]() | | Easy
-43 | [Kaleidoscopes]() | | Easy
-44 | [Land Ho!]() | | Easy
-45 | [Neverland]() | | Easy
-46 | [Zip Code Validator]() | | Easy
-47 | [Vowel Counter]() | | Easy
-48 | [Isogram Detector]() | | Easy
-49 | [Multiples]() | | Easy
-50 | [Number of Ones]() | | Easy
-51 | [Roadrunner]() | | Medium
-52 | [Snap, Crackle and Pop]() | | Medium
-53 | [Hex Color Code Generator ]() | | Medium
+42 | [Izzy the Iguana](/sololearn/IzzyTheIguana/IzzyTheIguana.md) | | Easy
+43 | [Kaleidoscopes](/sololearn/Kaleidoscopes/Kaleidoscopes.md) | | Easy
+44 | [Land Ho!](/sololearn/LandHo/LandHo.md) | | Easy
+45 | [Neverland](/sololearn/Neverland/Neverland.md) | | Easy
+46 | [Zip Code Validator](/sololearn/ZipCodeValidator/ZipCodeValidator.md) | | Easy
+47 | [Vowel Counter](/sololearn/VowelCounter/VowelCounter.md) | | Easy
+48 | [Isogram Detector](/sololearn/IsogramDetector/IsogramDetector.md) | | Easy
+49 | [Multiples](/sololearn/Multiples/Multiples.md) | | Easy
+50 | [Number of Ones](/sololearn/NumberOfOnes/NumberOfOnes.md) | | Easy
+51 | [Roadrunner](/sololearn/Roadrunner/Roadrunner.md) | | Medium
+52 | [Snap, Crackle and Pop](/sololearn/SCP/SCP.md) | | Medium
+53 | [Hex Color Code Generator](/sololearn/RGBtoHEX/RGBtoHEX.md) | | Medium
 54 | [Super Sale](/sololearn/SuperSale/SuperSale.md) | | Medium
 55 | [Duty Free](/sololearn/DutyFree/DutyFree.md) | | Medium
 56 | [Carrot Cake](/sololearn/CarrotCake/CarrotCake.md) | | Medium
@@ -67,7 +67,7 @@ S.N | Name of Challenge | Solutions | Difficulty
 61 | [Tax Free](/sololearn/TaxFree/TaxFree.md) | | Medium
 62 | [How Far ?](/sololearn/HowFar/HowFar.md) | | Medium
 63 | [Day of the Week](/sololearn/DayOfTheWeek/DayOfTheWeek.md) | | Medium
-64 | [Camel to Snake](/sololearn/CamelToSnake/CamelToSnake.md) | | Medium
+64 | [Camelcase to Snakecase](/sololearn/CamelToSnake/CamelToSnake.md) | | Medium
 65 | [Days between dates](/sololearn/DaysBetweenDates/DaysBetweenDates.md) | | Medium
 66 | [Text Decompressor](/sololearn/TextDecompressor/TextDecompressor.md) | | Medium
 67 | [Snowballing Numbers](/sololearn/SnowballingNumbers/SnowballingNumbers.md) | | Medium
