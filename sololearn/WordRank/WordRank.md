@@ -35,3 +35,15 @@ Let's create a list of all the words that can be made up of the letters of the i
 1. BBAA
 
 The given word is number 2 in the list.
+
+## Solutions
+
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/WordRank/WordRank.py)
+Java | not available
+Ruby | not available
+Swift | not available
