@@ -40,6 +40,44 @@ S.N | Name of Challenge | Solutions | Difficulty
 35 | [Hofstadter's Q-Sequence](/sololearn/HofstadtersQSequence/HQS.md) | | Hard
 36 | [Ballpark Orders](/sololearn/BallparkOrders/BallparkOrders.md) | | Easy
 37 | [Safety Deposit Boxes](/sololearn/SafetyDepositBoxes/SDBs.md) | | Medium
+38 | [Balconies](/sololearn/Balconies/Balconies.md) | | Easy
+38 | [Candles](/sololearn/Candles/Candles.md) | | Easy
+39 | [Duct Tape](/sololearn/DuctTape/DuctTape.md) | | Easy
+40 | [Easter Eggs](/sololearn/EasterEggs/EasterEggs.md) | | Easy
+41 | [Guard Flamingos](/sololearn/GuardFlamingos/GF.md) | | Easy
+42 | [Izzy the Iguana](/sololearn/Balconies/Balconies.md) | | Easy
+43 | [Kaleidoscopes](/sololearn/Candles/Candles.md) | | Easy
+44 | [Land Ho!](/sololearn/DuctTape/DuctTape.md) | | Easy
+45 | [Neverland](/sololearn/EasterEggs/EasterEggs.md) | | Easy
+46 | [Zip Code Validator](/sololearn/GuardFlamingos/GF.md) | | Easy
+47 | [Vowel Counter](/sololearn/Balconies/Balconies.md) | | Easy
+48 | [Isogram Detector](/sololearn/Candles/Candles.md) | | Easy
+49 | [Multiples](/sololearn/DuctTape/DuctTape.md) | | Easy
+50 | [Number of Ones](/sololearn/EasterEggs/EasterEggs.md) | | Easy
+51 | [Roadrunner](/sololearn/Candles/Candles.md) | | Medium
+52 | [Snap, Crackle and Pop](/sololearn/DuctTape/DuctTape.md) | | Medium
+53 | [Hex Color Code Generator ](/sololearn/EasterEggs/EasterEggs.md) | | Medium
+54 | [Super Sale](/sololearn/SuperSale/SuperSale.md) | | Medium
+55 | [Duty Free](/sololearn/DutyFree/DutyFree.md) | | Medium
+56 | [Carrot Cake](/sololearn/CarrotCake/CarrotCake.md) | | Medium
+57 | [Building Blocks](/sololearn/BuildingBlocks/BuildingBlocks.md) | | Medium
+58 | [Name Buddy](/sololearn/NameBuddy/NameBuddy.md) | | Medium
+59 | [Divisible](/sololearn/Divisible/Divisible.md) | | Medium
+60 | [Even Numbers](/sololearn/EvenNumbers/EvenNumbers.md) | | Medium
+61 | [Tax Free](/sololearn/TaxFree/TaxFree.md) | | Medium
+62 | [How Far ?](/sololearn/HowFar/HowFar.md) | | Medium
+63 | [Day of the Week](/sololearn/DayOfTheWeek/DayOfTheWeek.md) | | Medium
+64 | [Camel to Snake](/sololearn/CamelToSnake/CamelToSnake.md) | | Medium
+65 | [Days between dates](/sololearn/DaysBetweenDates/DaysBetweenDates.md) | | Medium
+66 | [Text Decompressor](/sololearn/TextDecompressor/TextDecompressor.md) | | Medium
+67 | [Snowballing Numbers](/sololearn/SnowballingNumbers/SnowballingNumbers.md) | | Medium
+68 | [Flowing Words](/sololearn/FlowingWords/FlowingWords.md) | | Medium
+69 | [Splitting Strings](/sololearn/SplittingStrings/SplittingStrings.md) | | Medium
+70 | [Missing Numbers](/sololearn/MissingNumbers/MissingNumbers.md) | | Medium
+71 | [Initials](/sololearn/Initials/Initials.md) | | Medium
+72 | [Credit Card Validator](/sololearn/CreditCardValidator/CreditCardValidator.md) | | Medium
+73 | [CMYK to RGB](/sololearn/CMYKtoRGB/CMYKtoRGB.md) | | Medium
+74 | [Poker Hand](/sololearn/PokerHand/PokerHand.md) | | Hard
 
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.

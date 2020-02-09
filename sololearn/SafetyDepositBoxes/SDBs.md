@@ -24,3 +24,15 @@ An integer of the amount of time it will take for you to find your item.
 
 ## Explanation
 It will take you 20 minutes before you drill into the 4th box, which contains your item, the Declaration of Independence.
+
+## Solutions
+
+Language | Solution
+---------|---------
+C | not available
+CPP | not available
+C# | not available
+Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/SafetyDepositBoxes/SDBs.py)
+Java | not available
+Ruby | not available
+Swift | not available
