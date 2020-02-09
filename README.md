@@ -45,18 +45,18 @@ S.N | Name of Challenge | Solutions | Difficulty
 39 | [Duct Tape](/sololearn/DuctTape/DuctTape.md) | | Easy
 40 | [Easter Eggs](/sololearn/EasterEggs/EasterEggs.md) | | Easy
 41 | [Guard Flamingos](/sololearn/GuardFlamingos/GF.md) | | Easy
-42 | [Izzy the Iguana](/sololearn/Balconies/Balconies.md) | | Easy
-43 | [Kaleidoscopes](/sololearn/Candles/Candles.md) | | Easy
-44 | [Land Ho!](/sololearn/DuctTape/DuctTape.md) | | Easy
-45 | [Neverland](/sololearn/EasterEggs/EasterEggs.md) | | Easy
-46 | [Zip Code Validator](/sololearn/GuardFlamingos/GF.md) | | Easy
-47 | [Vowel Counter](/sololearn/Balconies/Balconies.md) | | Easy
-48 | [Isogram Detector](/sololearn/Candles/Candles.md) | | Easy
-49 | [Multiples](/sololearn/DuctTape/DuctTape.md) | | Easy
-50 | [Number of Ones](/sololearn/EasterEggs/EasterEggs.md) | | Easy
-51 | [Roadrunner](/sololearn/Candles/Candles.md) | | Medium
-52 | [Snap, Crackle and Pop](/sololearn/DuctTape/DuctTape.md) | | Medium
-53 | [Hex Color Code Generator ](/sololearn/EasterEggs/EasterEggs.md) | | Medium
+42 | [Izzy the Iguana]() | | Easy
+43 | [Kaleidoscopes]() | | Easy
+44 | [Land Ho!]() | | Easy
+45 | [Neverland]() | | Easy
+46 | [Zip Code Validator]() | | Easy
+47 | [Vowel Counter]() | | Easy
+48 | [Isogram Detector]() | | Easy
+49 | [Multiples]() | | Easy
+50 | [Number of Ones]() | | Easy
+51 | [Roadrunner]() | | Medium
+52 | [Snap, Crackle and Pop]() | | Medium
+53 | [Hex Color Code Generator ]() | | Medium
 54 | [Super Sale](/sololearn/SuperSale/SuperSale.md) | | Medium
 55 | [Duty Free](/sololearn/DutyFree/DutyFree.md) | | Medium
 56 | [Carrot Cake](/sololearn/CarrotCake/CarrotCake.md) | | Medium
