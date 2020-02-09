@@ -57,5 +57,4 @@ You can also add solutions in different langauges to solved problems.
 ## Credits
 - [HackerRank](https://hackerrank.com)
 - [Code Chef](https://www.codechef.com)
-- [Softech](https://is.gd/pheglj)
 - [Sololearn](https://sololearn.com)
