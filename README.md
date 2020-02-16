@@ -79,6 +79,10 @@ S.N | Name of Challenge | Solutions | Difficulty
 73 | [CMYK to RGB](/sololearn/CMYKtoRGB/CMYKtoRGB.md) | | Medium
 74 | [Poker Hand](/sololearn/PokerHand/PokerHand.md) | | Hard
 
+Name of the Platform | Problems Page
+----------------------|-----------
+codesignal | [problems list](/codesignal/codesignal.md)
+
 ## Contribute
 Solve programming problems and challenges in HackerRank, Codechef or any other online/offline source on your own and then create a markdown file describing the problem you solved in challenges folder. Add the solution source file to solutions folder. Then in README.md add the problem to end of the existing table and relatively link problem & solution file.
 
