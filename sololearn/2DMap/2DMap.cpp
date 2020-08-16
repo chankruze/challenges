@@ -18,10 +18,13 @@ Copyright (c) Geekofia 2020 and beyond
 
 // XPXXX,PXXXX,XXXXX,XXXXX,XXXXX -> 2
 // XPXXX,XXXXX,XXXXX,XXXPX,XXXXX -> 5
+// XPXXP,XXXXX,XXXXX,XXXXX,XXXXX -> 3
+// XPXPX,XXXXX,XXXXX,XXXXX,XXXXX -> 2
+// PPXXX,XXXXX,XXXXX,XXXXX,XXXXX -> 1
 
 int main(int argc, char const *argv[]) {
     std::string _RAW_IN, row;
-    int i = 0, fx = -1, fy = -1, lx, ly;
+    int i = 0, fx = -1, fy = -1, lx = -1, ly = -1;
 
     input(_RAW_IN);
 
@@ -37,18 +40,20 @@ int main(int argc, char const *argv[]) {
         int len = row.length();
 
         // first P & second P in same row
-        if (y1 == y2 && y1 >= 0 & y1 < len) {
-            if (fx == -1) {
-                fx = i;
-                fy = y1;
-            } else {
-                lx = i;
-                ly = y1;
-            }
+        // if they are in same row, y1 != y2 (find != rfind)
+        if (y1 != y2) {
+            // x index
+            // fx = i;
+            // lx = fx;
 
-        }  // only one P
-        else if ((y1 >= 0 && y1 < len)) {
-            if (fx != -1) {
+            // y index
+
+            println(abs(y1 - y2));
+            return 0;
+        }  // only one P (y1 == y2)
+        else if (y1 == y2 && y1 > -1 && y1 < len) {
+            // first P
+            if (fx == -1 && lx == -1) {
                 fx = i;
                 fy = y1;
             } else {
@@ -61,6 +66,7 @@ int main(int argc, char const *argv[]) {
         // println(i);
         // println(y1);
         // println(y2);
+        // println("");
         // println(fx);
         // println(fy);
         // println("");
