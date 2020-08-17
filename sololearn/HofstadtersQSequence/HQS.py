@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 def Q(num):
-    result, value = 0, 0
     arr = [1, 1]
 
     for i in range(2, num):
