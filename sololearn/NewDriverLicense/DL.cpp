@@ -15,7 +15,6 @@ Copyright (c) Geekofia 2020 and beyond
 
 using namespace std;
 
-// print(time)
 bool compareWords(string a, string b) {
     return a.compare(b) < 0;
 }
