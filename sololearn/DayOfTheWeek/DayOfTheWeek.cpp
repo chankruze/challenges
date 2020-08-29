@@ -110,13 +110,31 @@ int main(int argc, char const *argv[]) {
     }
     // input case 2 (November 19, 2019)
     else {
+        unordered_map<string, int> monthsMap;
+        monthsMap["jan"] = 1;
+        monthsMap["feb"] = 2;
+        monthsMap["mar"] = 3;
+        monthsMap["apr"] = 4;
+        monthsMap["may"] = 5;
+        monthsMap["jun"] = 6;
+        monthsMap["jul"] = 7;
+        monthsMap["aug"] = 8;
+        monthsMap["sep"] = 9;
+        monthsMap["oct"] = 10;
+        monthsMap["nov"] = 11;
+        monthsMap["dec"] = 12;
+
         vector<string> res = split(_IN_DATE, " ,");
 
-        for (string elem : res) {
-            cout << elem << endl;
-        }
+        day = stoi(res[1]);
+
+        string m = res[0].substr(0, 3);
+        m[0] = tolower(m[0]);
+
+        month = monthsMap[m];
+
+        year = stoi(res[2]);
     }
 
-    // calculate
     cout << calcDay(day, month, year) << endl;
 }
