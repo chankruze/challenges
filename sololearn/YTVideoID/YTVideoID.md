@@ -28,7 +28,7 @@ The input can be in two different formats.
 
 Language | Solution
 ---------|---------
-C | not available
+C |  available (https://gist.github.com/gururajkl/e9050067ac7e4349db55b652dff1bf99)
 CPP | not available
 C# | not available
 Python | [available](https://raw.githubusercontent.com/chankruze/challenges/master/sololearn/YTVideoID/YTVideoID.py)
